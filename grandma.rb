@@ -18,6 +18,5 @@ def speak_to_grandma(phrase)
   elsif
     puts "HUH?! SPEAK UP, SONNY!"
   else phase == "I LOVE YOU GRANDMA!"
-    puts 
-
+    puts "I LOVE YOU TOO PUMPKIN!"
 end 
