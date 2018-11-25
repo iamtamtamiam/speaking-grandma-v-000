@@ -13,6 +13,8 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 def speak_to_grandma(phrase)
-if phrase.upcase
-  puts 
+  if phrase.upcase
+    puts 
+  elsif 
+
 end 
